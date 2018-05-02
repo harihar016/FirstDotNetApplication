@@ -27,7 +27,7 @@ namespace ThreadingConsoleApp
 
                 prodThread.Join();
                 consThread.Join();
-                Console.WriteLine("Thread 123 123");
+                Console.WriteLine("Thread 123");
                 //Thread prodThread = new Thread(new ThreadStart(thread.getOddNumbers));
                 //Thread consThread = new Thread(new ThreadStart(thread.getEvenNumbers));
 
