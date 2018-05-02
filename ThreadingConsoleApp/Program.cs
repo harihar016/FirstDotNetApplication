@@ -30,7 +30,7 @@ namespace ThreadingConsoleApp
 
                 Console.WriteLine("Thread 123");
 
-                Console.WriteLine("Thread 123 123 sdfsdfsdf");
+                Console.WriteLine("Thread 123 123 sdfsdfsdf sdf");
 
                 //Thread prodThread = new Thread(new ThreadStart(thread.getOddNumbers));
                 //Thread consThread = new Thread(new ThreadStart(thread.getEvenNumbers));
